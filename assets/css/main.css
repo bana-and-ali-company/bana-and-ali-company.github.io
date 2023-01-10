@@ -2502,7 +2502,7 @@ input[type="radio"]:focus+label:before {
 
 .image.left,
 .image.right {
-	max-width: 25%;
+	max-width: 35%;
 }
 
 .image.left img,
@@ -2512,13 +2512,13 @@ input[type="radio"]:focus+label:before {
 
 .image.left {
 	float: left;
-	margin: 0 1.5em 1em 0;
+	margin: 0 1.5em 2em 0;
 	top: 0.25em;
 }
 
 .image.right {
 	float: right;
-	margin: 0 0 1em 1.5em;
+	margin: 0 0 2em 1.5em;
 	top: 0.25em;
 }
 
@@ -3735,7 +3735,7 @@ body.is-preload #header.alt .logo {
 }
 
 #main>.main {
-	padding: 5em 5em 3em 5em;
+	padding: 3em 5em 2em 5em;
 	border-top: solid 1px #dddddd;
 }
 
